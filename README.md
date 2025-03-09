@@ -1,6 +1,6 @@
 # 🛡️ Hook_XSS Pro - Advanced XSS Vulnerability Scanner
 
-![GitHub stars](https://img.shields.io/github/stars/ericpd/hookxss-pro?style=social)
+![GitHub stars](https://img.shields.io/github/stars/https://github.com/ericpd/hookxss-pro?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ericpd/hookxss-pro?style=social)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -46,7 +46,7 @@ python main.py
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [Contribution Guidelines](CONTRIBUTING.md) before submitting PRs.
+We welcome contributions! Please read our [Contribution Guidelines](https://github.com/ericpd/Hook_XSS_Pro) before submitting PRs.
 
 ## 📄 License
 
