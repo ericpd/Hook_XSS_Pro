@@ -1,7 +1,7 @@
 # 🛡️ Hook_XSS Pro - Advanced XSS Vulnerability Scanner
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/hookxss-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/hookxss-pro?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ericpd/hookxss-pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ericpd/hookxss-pro?style=social)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **Hook_XSS Pro** is a professional-grade XSS scanning tool designed to help developers and security researchers identify and mitigate Cross-Site Scripting (XSS) vulnerabilities in web applications. With its intuitive interface and powerful scanning engine, it's your go-to solution for web security audits.
@@ -93,6 +93,14 @@ Join our [Discord Server](https://discord.gg/your-invite-link) for discussions a
 - Detailed vulnerability explanations  
 
 ---
+DEMO :
+![s1](https://github.com/user-attachments/assets/8b071cdc-920e-4d43-a590-d39c0582a214)
+![s4](https://github.com/user-attachments/assets/f7605d3f-4c53-481a-92b1-6100afc219fe)
+![s3](https://github.com/user-attachments/assets/72d4a89d-bd93-4f03-91e1-c3ef106166ad)
+![s2](https://github.com/user-attachments/assets/535b93ed-c074-49a4-9fc3-9d691ee18f08)
+
+
+
 
 **Support the Project**  
 If you find this project useful, please consider giving it a ⭐ on GitHub!
