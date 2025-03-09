@@ -1,7 +1,6 @@
 # 🛡️ Hook_XSS Pro - Advanced XSS Vulnerability Scanner
 
-![GitHub stars](https://img.shields.io/github/stars/https://github.com/ericpd/hookxss-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ericpd/hookxss-pro?style=social)
+
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **Hook_XSS Pro** is a professional-grade XSS scanning tool designed to help developers and security researchers identify and mitigate Cross-Site Scripting (XSS) vulnerabilities in web applications. With its intuitive interface and powerful scanning engine, it's your go-to solution for web security audits.
